@@ -5,7 +5,7 @@
   // Provisioned automatically by the Deploy to Cloudflare button.
   // For manual deploys: `pnpm exec wrangler kv namespace create TOKENS`.
   "kv_namespaces": [
-    { "binding": "TOKENS", "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID" },
+    { "binding": "TOKENS", "id": "0389c9eb6f634d9782bbe5e258818186" },
   ],
   "vars": {
     "GOOGLE_CLIENT_ID": "your-client-id.apps.googleusercontent.com",
